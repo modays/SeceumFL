@@ -33,7 +33,7 @@ requests_toolbelt==0.9.1
 ruamel-yaml==0.16.10
 scikit-learn==1.0.1
 scipy==1.8.1
-tensorflow-cpu==2.9.3
+tensorflow-cpu==2.11.1
 #torch==1.13.1+cpu
 torchvision==0.14.1+cpu
 torch-model-archiver==0.3.1
