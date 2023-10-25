@@ -91,7 +91,7 @@ happybase
 apscheduler
 psycopg2-binary
 
-Werkzeug==2.2.3
+Werkzeug==3.0.1
 pyspark==3.3.2
 func_timeout
 
