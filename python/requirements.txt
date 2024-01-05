@@ -22,7 +22,7 @@ minio>=6.0.2, <7.0.0
 numpy==1.23.1
 peewee==3.9.3
 psutil>=5.7.0
-pycryptodomex==3.15.0
+pycryptodomex==3.19.1
 PyMySQL==1.0.3
 python-dotenv==0.13.0
 redis==3.5.3
